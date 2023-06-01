@@ -11,7 +11,7 @@ class MainApplication : Application() {
     companion object {
 
         // Set LAUNCHDARKLY_MOBILE_KEY to your LaunchDarkly SDK mobile key.
-        const val LAUNCHDARKLY_MOBILE_KEY = "mobile-key-from-launch-darkly-website"
+        const val LAUNCHDARKLY_MOBILE_KEY = "mob-1c2121ba-a97b-415d-a64b-7588359253e9"
     }
 
     override fun onCreate() {
