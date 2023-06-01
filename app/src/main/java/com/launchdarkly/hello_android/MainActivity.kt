@@ -10,7 +10,7 @@ import com.launchdarkly.sdk.android.LDClient
 class MainActivity : AppCompatActivity() {
 
     // Set BOOLEAN_FLAG_KEY to the feature flag key you want to evaluate.
-    val BOOLEAN_FLAG_KEY = "my-boolean-flag"
+    val BOOLEAN_FLAG_KEY = "android-accountSummary-test"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
